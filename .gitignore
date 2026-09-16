@@ -1,0 +1,6 @@
+node_modules/
+.pnpm-store/
+media/*
+!media/.gitkeep
+*.log
+.env
